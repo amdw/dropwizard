@@ -1,0 +1,4 @@
+logging:
+    level: WARN
+    appenders:
+        - type: console
